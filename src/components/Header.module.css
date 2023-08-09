@@ -1,0 +1,21 @@
+.header {
+  padding: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  border: 1px solid black;
+}
+
+.inputGroup {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+.navList {
+  display: flex;
+  list-style-type: none;
+}
+
+.navList li { margin: 0 1rem;}
+

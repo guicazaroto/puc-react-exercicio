@@ -1,0 +1,13 @@
+.post {
+    border: 1px solid #ccc;
+    padding: 1rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.post:not(:last-child) {
+    margin-bottom: 1rem;
+}
+
+.post img { margin-right: 2rem; }

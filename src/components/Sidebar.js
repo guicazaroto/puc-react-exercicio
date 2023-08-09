@@ -1,4 +1,4 @@
-import style from './'
+import style from './Sidebar.module.css'
 
 export default function Sidebar() {
   return (
